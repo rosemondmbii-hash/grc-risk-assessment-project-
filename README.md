@@ -1,35 +1,27 @@
 # grc-risk-assessment-project
-[Assest Inventory .xlsx](https://github.com/user-attachments/files/26163287/Assest.Inventory.xlsx)
+[Asset Inventory](Assets/Asset_Inventory.xlsx)
+# GRC Risk Assessment Project
 
-📌 Project Overview
-This project simulates a real-world Governance, Risk, and Compliance (GRC) engagement for a small organization. The objective is to assess security risks, develop policies, and align controls with industry standards.
+## 📌 Project Overview
+This project simulates a real-world Governance, Risk, and Compliance (GRC) engagement for a small organization.
 
-🏢 Organization Background
-SecureTech Solutions is a small IT services company with approximately 50 employees. The company utilizes cloud-based services including Microsoft 365 and Azure and stores sensitive customer data.
+The goal is to identify assets, assess risks, implement controls, and align security practices with the NIST Cybersecurity Framework.
 
-🎯 Objectives
-Conduct asset identification
+---
 
-Perform risk assessment
+## 🏢 Organization Background
+SecureTech Solutions is a small IT services company with ~50 employees.  
+The company uses cloud-based services such as Microsoft 365 and Azure and stores sensitive customer data.
 
-Develop security policies
+---
 
-Map controls to the NIST Cybersecurity Framework
+## 🎯 Objectives
+- Identify and classify organizational assets
+- Perform risk assessment and analysis
+- Develop security policies
+- Map controls to the NIST Cybersecurity Framework
+- Recommend risk mitigation strategies
 
-🧰 Tools & Technologies
-Microsoft Excel (Risk Register)
+---
 
-Microsoft Word (Policies & Reports)
-
-GitHub (Documentation)
-
-📂 Project Structure
-Risk Assessment Report
-
-Risk Register
-
-Security Policies
-
-Compliance Mapping
-
-Asset Inventory
+## 📂 Project Structure
