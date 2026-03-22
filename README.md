@@ -1,4 +1,4 @@
-# grc-risk-assessment-project-
+# grc-risk-assessment-project
 [Assest Inventory .xlsx](https://github.com/user-attachments/files/26163287/Assest.Inventory.xlsx)
 
 📌 Project Overview
