@@ -32,8 +32,5 @@ The company uses cloud-based services such as Microsoft 365 and Azure and stores
 (Security_Policies/Password_Policy.md)
 (Security_Policies/Incident_Response_Policy.md)
 
-- (If .md files → clickable preview
-If .docx → downloadable)
----
 
 ## 📂 Project Structure
