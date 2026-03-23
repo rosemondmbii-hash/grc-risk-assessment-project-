@@ -22,6 +22,13 @@ The company uses cloud-based services such as Microsoft 365 and Azure and stores
 - Map controls to the NIST Cybersecurity Framework
 - Recommend risk mitigation strategies
 
+## Security Policies
+- Access Control Policy
+- Password Policy
+- Incident Response Policy
+
+- (If .md files → clickable preview
+If .docx → downloadable)
 ---
 
 ## 📂 Project Structure
