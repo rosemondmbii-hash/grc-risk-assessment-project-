@@ -23,9 +23,10 @@ The company uses cloud-based services such as Microsoft 365 and Azure and stores
 - Recommend risk mitigation strategies
 
 ## Security Policies
-- Access Control Policy
-- Password Policy
-- Incident Response Policy
+
+- [Access Control Policy](Security_Policies/Access_Control_Policy.docx)
+- [Password Policy](Security_Policies/Password_Policy.docx)
+- [Incident Response Policy](Security_Policies/Incident_Response_Policy.docx)
 
 - (If .md files → clickable preview
 If .docx → downloadable)
