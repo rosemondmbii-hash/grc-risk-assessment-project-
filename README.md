@@ -28,6 +28,4 @@ The company uses cloud-based services such as Microsoft 365 and Azure and stores
 - [Password Policy](Security_Policies/Password_Policy.docx)
 - [Incident Response Policy](Security_Policies/Incident_Response_Policy.docx)
 
--[Access Control Policy](Security_Policies/Access_Control_Policy.md)
-
 ## 📂 Project Structure
